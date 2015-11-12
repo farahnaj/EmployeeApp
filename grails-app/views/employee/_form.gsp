@@ -1,4 +1,4 @@
-<%@ page import="mongodemoproject.Employee" %>
+<%@ page import="employeemongoapp.Employee" %>
 
 
 

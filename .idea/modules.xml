@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MongoDemoProject.iml" filepath="$PROJECT_DIR$/MongoDemoProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MongoDemoProject-grailsPlugins.iml" filepath="$PROJECT_DIR$/MongoDemoProject-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeMongoApp.iml" filepath="$PROJECT_DIR$/EmployeeMongoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeMongoApp-grailsPlugins.iml" filepath="$PROJECT_DIR$/EmployeeMongoApp-grailsPlugins.iml" />
     </modules>
   </component>
 </project>

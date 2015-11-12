@@ -3,11 +3,12 @@ grails {
         //host = "127.0.0.1"
         //port = 27017
         //username = "PramatiUser"
-       // password = "password"
-      //  databaseName = "pramati"
+        // password = "password"
+        //  databaseName = "pramati"
         connectionString="mongodb://PramatiUserCR:password@localhost:27017/pramati"
     }
 }
+
 /*
 dataSource {
     pooled = true
